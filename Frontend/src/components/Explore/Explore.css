@@ -47,3 +47,7 @@ explore-menu{
     border: none;
 
 }
+.explore-menu-list-item .active{
+    border: 4px solid tomato;
+    padding: 2px;
+}
